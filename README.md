@@ -8,3 +8,4 @@ License
 
 SIL Open Font License (OFL) Version 1.1, see LICENSE for more information.
 
+Copyright (c) 2008-2012, Arax Media Group, LLC (hamshen@gmail.com hayk@arax.ru http://anahit.armenia.ru http://arax.ru)
